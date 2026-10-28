@@ -2,7 +2,7 @@
 
 - **Full name:** Asad Aziz
 - **Reference:** MATACS-TH-2026-02
-- **Time actually spent:** [WRITE YOUR REAL TIME HERE, e.g. "about 3 hours over 1 day"]
+- **Time actually spent:** about 30 to 40 minutes
 
 ## Files
 
@@ -17,8 +17,6 @@
 AI only extracts facts (with evidence quotes) and optionally writes the explanation. Mandatory checks, scoring and ranking are plain code, so the same facts always give the same ranking. Suspicious or incomplete proposals are flagged for a human, and a person makes the final decision.
 
 Result on the sample set: A ranked 1st, E ranked 2nd, B ineligible, C and D flagged for human review.
-
-## How I used AI tools
 
 ## How I used AI tools
 
